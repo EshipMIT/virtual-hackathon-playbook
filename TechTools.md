@@ -22,6 +22,8 @@ Using Google Slides for presentations and guides allows everyone to see the publ
 
 Depending on the size of your hackathon, Google Forms can be a very powerful tool for information collection. You can leverage Google Forms to collect participant applications, team registrations, final presentation submissions, and more. However, if your hackathon has a large number of participants you may wish to consider a platform that can handle a greater number of individuals.
 
+#### Airtable
+For larger and on-going events, centralizing information is key. Tools like Airtable can help organizing teams streamline workflows, handle task management, and easily ingest and organize datasets from Google Drive and other sources. Its flexibility and intuitive and user-friendly interface makes implementation quick and easy.
 
 #### Hackathon Platform
 
